@@ -1,0 +1,20 @@
+SplitM: parts on field [0] with stream 0
+f t f f t f f 
+f f f f f f f 
+f f f f f f f 
+f f f f f f f 
+SplitM: parts on field [0] with stream 1
+f f f f f f f 
+f f f t t t f 
+f f f f f f f 
+f f f f f f f 
+SplitM: parts on field [0] with stream 2
+f f f f f f f 
+f f f f f f f 
+f f f f f f t 
+f f f f f f f 
+SplitM: parts on field [0] with stream 3
+f f f f f f f 
+f f f f f f f 
+f f f f f f f 
+t f f f f f f 

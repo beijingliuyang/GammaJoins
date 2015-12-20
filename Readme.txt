@@ -1,0 +1,1 @@
+A natural joins implementation of Hash-split/Bloom-BFilter/Hashjoin design at UT-Austin CS392F project.Four relational dataset tables (i.e. client, viewing, orders, parts, odetails) are provided as examples. 

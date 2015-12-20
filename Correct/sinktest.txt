@@ -1,0 +1,5 @@
+Sinking: client
+Sinking: viewing
+Sinking: orders
+Sinking: parts
+Sinking: odetails

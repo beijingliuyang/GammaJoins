@@ -1,0 +1,21 @@
+Bfiltering partson field [0] with odetailson field [1] using outsteam 0
+ONO                    PNO                    QTY                    
+---------------------- ---------------------- ---------------------- 
+1020                   10506                  1                      
+1021                   10601                  4                      
+1022                   10601                  1                      
+Bfiltering partson field [0] with odetailson field [1] using outsteam 1
+ONO                    PNO                    QTY                    
+---------------------- ---------------------- ---------------------- 
+1020                   10507                  1                      
+1022                   10701                  1                      
+1023                   10800                  1                      
+Bfiltering partson field [0] with odetailson field [1] using outsteam 2
+ONO                    PNO                    QTY                    
+---------------------- ---------------------- ---------------------- 
+1020                   10508                  2                      
+1023                   10900                  1                      
+Bfiltering partson field [0] with odetailson field [1] using outsteam 3
+ONO                    PNO                    QTY                    
+---------------------- ---------------------- ---------------------- 
+1020                   10509                  3                      

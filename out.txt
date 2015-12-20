@@ -1,0 +1,14 @@
+HJoinRefineWithParallelBloom_ParallelBF_Parallel_Join: parts on field [0] with odetails on field [1] stream: 2
+PNO                    PNAME                          QOH                    PRICE                  OLEVEL                 ONO                    QTY                    
+---------------------- ------------------------------ ---------------------- ---------------------- ---------------------- ---------------------- ---------------------- 
+10508                  Land_Before_Time_III           190                    19.99                  20                     1020                   2                      
+10900                  Dr._Zhivago                    100                    24.99                  30                     1023                   1                      
+HJoinRefineWithParallelBloom_ParallelBF_Parallel_Join: client on field [0] with viewing on field [0] stream: 3
+CLIENTNO FNAME    LNAME      TELNO           PREFTYPE MAXRENT                PROPERTYNO VIEWDATE                  KOMMENT              
+-------- -------- ---------- --------------- -------- ---------------------- ---------- ------------------------- -------------------- 
+CR62     Mary     Tregear    01224-196720    Flat     600                    PA14       14-MAY-04                 no_dining_room       
+HJoinRefineWithParallelBloom_ParallelBF_Parallel_Join: orders on field [0] with odetails on field [0] stream: 0
+ONO                    CNO                    ENO                    RECEIVED                  SHIPPED                   PNO                    QTY                    
+---------------------- ---------------------- ---------------------- ------------------------- ------------------------- ---------------------- ---------------------- 
+1023                   3333                   1000                   20-JUN-97                 _                         10800                  1                      
+1023                   3333                   1000                   20-JUN-97                 _                         10900                  1                      

@@ -1,0 +1,32 @@
+HJoinRefineWithBloomFilterstestparts on field [0] with odetails on field [1]
+PNO                    PNAME                          QOH                    PRICE                  OLEVEL                 ONO                    QTY                    
+---------------------- ------------------------------ ---------------------- ---------------------- ---------------------- ---------------------- ---------------------- 
+10506                  Land_Before_Time_I             200                    19.99                  20                     1020                   1                      
+10507                  Land_Before_Time_II            156                    19.99                  20                     1020                   1                      
+10508                  Land_Before_Time_III           190                    19.99                  20                     1020                   2                      
+10509                  Land_Before_Time_IV            60                     19.99                  20                     1020                   3                      
+10601                  Sleeping_Beauty                300                    24.99                  20                     1021                   4                      
+10601                  Sleeping_Beauty                300                    24.99                  20                     1022                   1                      
+10701                  When_Harry_Met_Sally           120                    19.99                  30                     1022                   1                      
+10800                  Dirty_Harry                    140                    14.99                  30                     1023                   1                      
+10900                  Dr._Zhivago                    100                    24.99                  30                     1023                   1                      
+HJoinRefineWithBloomFilterstestclient on field [0] with viewing on field [0]
+CLIENTNO FNAME    LNAME      TELNO           PREFTYPE MAXRENT                PROPERTYNO VIEWDATE                  KOMMENT              
+-------- -------- ---------- --------------- -------- ---------------------- ---------- ------------------------- -------------------- 
+CR56     Aline    Stewart    0141-848-1825   Flat     350                    PA14       24-MAY-04                 too_small            
+CR76     John     Kay        0207-774-5632   Flat     425                    PG4        20-APR-04                 too_remote           
+CR56     Aline    Stewart    0141-848-1825   Flat     350                    PG4        26-MAY-04                 _                    
+CR62     Mary     Tregear    01224-196720    Flat     600                    PA14       14-MAY-04                 no_dining_room       
+CR56     Aline    Stewart    0141-848-1825   Flat     350                    PG36       28-APR-04                 _                    
+HJoinRefineWithBloomFilterstestorders on field [0] with odetails on field [0]
+ONO                    CNO                    ENO                    RECEIVED                  SHIPPED                   PNO                    QTY                    
+---------------------- ---------------------- ---------------------- ------------------------- ------------------------- ---------------------- ---------------------- 
+1020                   1111                   1000                   10-DEC-94                 12-DEC-94                 10506                  1                      
+1020                   1111                   1000                   10-DEC-94                 12-DEC-94                 10507                  1                      
+1020                   1111                   1000                   10-DEC-94                 12-DEC-94                 10508                  2                      
+1020                   1111                   1000                   10-DEC-94                 12-DEC-94                 10509                  3                      
+1021                   1111                   1000                   12-JAN-95                 15-JAN-95                 10601                  4                      
+1022                   2222                   1001                   13-FEB-95                 20-FEB-95                 10601                  1                      
+1022                   2222                   1001                   13-FEB-95                 20-FEB-95                 10701                  1                      
+1023                   3333                   1000                   20-JUN-97                 _                         10800                  1                      
+1023                   3333                   1000                   20-JUN-97                 _                         10900                  1                      

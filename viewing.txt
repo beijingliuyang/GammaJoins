@@ -1,0 +1,8 @@
+CLIENTNO PROPERTYNO VIEWDATE                  KOMMENT              
+-------- ---------- ------------------------- -------------------- 
+CR56     PA14       24-MAY-04                 too_small            
+CR76     PG4        20-APR-04                 too_remote           
+CR56     PG4        26-MAY-04                 _                 
+CR62     PA14       14-MAY-04                 no_dining_room       
+CR56     PG36       28-APR-04                 _                   
+
